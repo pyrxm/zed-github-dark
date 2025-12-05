@@ -1,7 +1,7 @@
-id = "github-dark-default"
-name = "GitHub Dark Default"
-version = "1.0.10"
+id = "github-dark-colorblind"
+name = "GitHub Dark Colorblind"
+version = "1.0.0"
 schema_version = 1
-authors = ["MordFustang21"]
-description = "A modified port of the GitHub VSCode theme"
-repository = "https://github.com/mordfustang21/zed-github-dark"
+authors = ["pyrxm"]
+description = "A modified port of the GitHub VSCode theme for colorblind users."
+repository = "https://github.com/pyrxm/zed-github-dark"
